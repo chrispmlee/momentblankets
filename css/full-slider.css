@@ -13,3 +13,8 @@
   -o-background-size: cover;
   background-size: cover;
 }
+
+.head{color: "black";
+		background-color:"white";
+		font-family:"Arial", Helvetica, sans-serif}
+
